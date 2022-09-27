@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Fdata-analyst&psig=AOvVaw0HbL6_a1UYKIO3hToSUlko&ust=1664385017285000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMj6zsa7tfoCFQAAAAAdAAAAABAD)
 <h1 align="center">Hi 👋, I'm Tanuj Agarwal</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Computer Man" width="400",align="right">
